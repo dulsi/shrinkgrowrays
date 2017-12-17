@@ -1,0 +1,2 @@
+Adds growth ray and shrink ray guns to alter monsters.
+Growth ray gun increases the size of monsters. Shrink ray guns decrease the size of monsters.
